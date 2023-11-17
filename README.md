@@ -1,6 +1,6 @@
 # Hey There 👋, I'm Quang Tran
 
-I'm Quang Tran from Boston, Massachusetts, and I am a passionate full-time computer science student at the University of Massachusetts Lowell! 👨‍💻
+I'm Quang Tran from Boston, Massachusetts, and I am a passionate full-time computer science student at the [University of Massachusetts Lowell](https://www.uml.edu/about/)! 👨‍💻
 Check out my [Website](https://quangt23.github.io/qt-codes-portfolio/) ! 🌐
 
 ## 🚀 About Me
@@ -26,6 +26,3 @@ I thrive on turning complex problems into elegant solutions through code. As a c
 Feel free to explore my repositories, and don't hesitate to connect. Together, we can create amazing things! 🌟
 
 I'm open to collaborating on exciting projects. If you have an interesting idea or need help with something, feel free to reach out!
-
-
- 
