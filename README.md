@@ -1,7 +1,7 @@
 # Hey There 👋, I'm Quang Tran
 
 I'm Quang Tran from Boston, Massachusetts, and I am a passionate full-time computer science student at the University of Massachusetts Lowell! 👨‍💻
-Check out my website! [Website](https://quangt23.github.io/qt-codes-portfolio/) 🌐
+Check out my [Website](https://quangt23.github.io/qt-codes-portfolio/) ! 🌐
 
 ## 🚀 About Me
 
@@ -23,22 +23,9 @@ I thrive on turning complex problems into elegant solutions through code. As a c
 
 - LinkedIn: [Quang Tran](https://www.linkedin.com/in/quang-tran-308074225/)
 - Email: quangtbusiness@gmail.com
-
-## 🤝 Looking for Collaborators
+Feel free to explore my repositories, and don't hesitate to connect. Together, we can create amazing things! 🌟
 
 I'm open to collaborating on exciting projects. If you have an interesting idea or need help with something, feel free to reach out!
-
-## 🚴 Hobbies
-
-When I'm not coding, you can find me playing video games, working out at my local fitness gym, or diving into the latest tech articles.
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangt23&show_icons=true&theme=radical)
-
-## 🎉 Let's Build the Future Together!
-
-Feel free to explore my repositories, and don't hesitate to connect. Together, we can create amazing things! 🌟
 
 
  
